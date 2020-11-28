@@ -32,7 +32,7 @@ params:
       - type: action
         label: Contact
         url: /contact/
-        style: link
+        style: button
     logo_img: /images/General logo.png
   footer:
     type: footer
