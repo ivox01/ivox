@@ -16,7 +16,7 @@ sections:
       You should also follow me on social media.
     actions:
       - type: action
-        label: My social medias
+        label: My links
         url: /contact
         style: button
   - type: section_portfolio
