@@ -33,6 +33,12 @@ params:
         label: Contact
         url: /contact/
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     logo_img: /images/General logo.png
   footer:
     type: footer
