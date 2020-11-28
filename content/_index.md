@@ -19,6 +19,12 @@ sections:
         label: My links
         url: /my-links
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - type: section_portfolio
     title: Recent Work
     section_id: latest-projects
