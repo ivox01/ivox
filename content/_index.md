@@ -19,7 +19,7 @@ sections:
         label: My links
         url: /my-links
         style: button
-      - label: lorem-ipsum
+      - label: How to support me
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
