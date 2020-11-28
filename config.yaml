@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: Ivox's website - Content Hub
   color_scheme: dark
-  accent_color: pink
+  accent_color: yellow
   header:
     type: header
     title: Ivox
