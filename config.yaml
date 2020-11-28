@@ -33,6 +33,7 @@ params:
         label: Contact
         url: /contact/
         style: link
+    logo_img: /images/General logo.png
   footer:
     type: footer
     content: '&copy; Stackbit-Exto. All rights reserved.'
