@@ -47,13 +47,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         image: /images/medium.png
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
-            icon_class: lorem-ipsum
-            new_window: false
-            type: action
+        actions: []
       - type: grid_item
         title: Service Title
         content: >-
