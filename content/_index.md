@@ -17,7 +17,7 @@ sections:
     actions:
       - type: action
         label: My links
-        url: /contact
+        url: /my-links
         style: button
   - type: section_portfolio
     title: Recent Work
