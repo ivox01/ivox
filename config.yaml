@@ -20,7 +20,7 @@ params:
       - type: action
         label: Blog
         url: /blog/
-        style: icon
+        style: button
       - type: action
         label: Style Guide
         url: /style-guide/
