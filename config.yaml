@@ -34,7 +34,7 @@ params:
         url: /contact/
         style: button
       - label: My social medias
-        url: lorem-ipsum
+        url: /my-social-medias/
         style: button
         icon_class: My links
         new_window: false
