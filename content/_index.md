@@ -10,10 +10,10 @@ sections:
 
 
       This website is a hub where you can find all my content that is on other
-      platforms + some exclusives.
+      platforms + some exclusives as blog posts.
 
 
-      You should also follow me on Youtube and Podcast Platforms.
+      You should also follow me on social media.
     actions:
       - type: action
         label: Let's talk
