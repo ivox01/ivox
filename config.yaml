@@ -33,7 +33,7 @@ params:
         label: Contact
         url: /contact/
         style: button
-      - label: lorem-ipsum
+      - label: My llinks
         url: lorem-ipsum
         style: button
         icon_class: My links
