@@ -28,7 +28,7 @@ params:
       - type: action
         label: About
         url: /about/
-        style: link
+        style: button
       - type: action
         label: Contact
         url: /contact/
