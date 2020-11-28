@@ -16,7 +16,7 @@ params:
       - type: action
         label: Portfolio
         url: /portfolio/
-        style: link
+        style: button
       - type: action
         label: Blog
         url: /blog/
