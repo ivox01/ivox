@@ -36,7 +36,7 @@ params:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: button
-        icon_class: lorem-ipsum
+        icon_class: My links
         new_window: false
         type: action
     logo_img: /images/General logo.png
