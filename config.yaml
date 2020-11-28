@@ -12,7 +12,7 @@ params:
       - type: action
         label: Home
         url: /
-        style: button
+        style: icon
       - type: action
         label: Portfolio
         url: /portfolio/
