@@ -9,12 +9,11 @@ sections:
       I am a writer, and a pundit.
 
 
-      This website is a hub where you can find all my content on other platforms
-      + some exclusives .
+      This website is a hub where you can find all my content that is on other
+      platforms + some exclusives.
 
 
-      You should also follow me on other platforms like Youtube and Podcast
-      platforms.
+      You should also follow me on Youtube and Podcast Platforms.
     actions:
       - type: action
         label: Let's talk
