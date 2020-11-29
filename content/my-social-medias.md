@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My social Medias
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 layout: page
