@@ -1,5 +1,5 @@
 ---
-title: Green is my favorite color
+title: Green is my favorite colo
 subtitle: 'Apparently, green is my favorite color.'
 date: '2018-01-11'
 thumb_image: images/5.jpg
